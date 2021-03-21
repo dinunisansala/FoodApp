@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1025479198553",
+    "firebase_url": "https://burgerbump-96700.firebaseio.com",
+    "project_id": "burgerbump-96700",
+    "storage_bucket": "burgerbump-96700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025479198553:android:98e7f123988534f7656e48",
+        "android_client_info": {
+          "package_name": "com.example.devruwanrathnayake.trip_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025479198553-ot8da61uemdmn1vsiflveu10q8mhogt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devruwanrathnayake.trip_plan",
+            "certificate_hash": "e6b9bdfbea6041616bd1f1319a3bd1f67f55eb82"
+          }
+        },
+        {
+          "client_id": "1025479198553-s8kdu8ijvb55ir6sat544cik92jf9ntf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAikYflE8JExxhQPFyV7MrGO-ad6kHsxYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025479198553-s8kdu8ijvb55ir6sat544cik92jf9ntf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
